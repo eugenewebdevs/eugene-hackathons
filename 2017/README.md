@@ -1,6 +1,6 @@
 #2017
 
-~~##QUACKHACK II: THE GAMING HACKATHON
+~~##QUACKHACK II: THE GAMING HACKATHON~~
 
 ###http://www.quackhack.io/
 
