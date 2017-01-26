@@ -18,7 +18,7 @@
 ##Hack for a Cause
 
 ###when?
-APRIL 1-2nd
+APRIL 7-9th
 
 ###where?
 Downtown Athletic Club
