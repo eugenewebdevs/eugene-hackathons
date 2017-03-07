@@ -17,7 +17,7 @@
 
 ##Hack for a Cause
 
-###https://hackforacause.io/
+### http://hackforacause.io/
 
 ###when?
 APRIL 7-9th
