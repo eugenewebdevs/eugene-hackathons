@@ -1,13 +1,13 @@
-#2017
+# 2017
 
 ~~##QUACKHACK II: THE GAMING HACKATHON~~ CANCELLED
 
-###http://www.quackhack.io/
+### http://www.quackhack.io/
 
 ###when?
 ~~JANUARY 13 - 15 I 2017~~
 
-###where?
+### here?
 ~~University of Oregon~~
 
 ####who?
@@ -15,18 +15,18 @@
 
 ==
 
-##Hack for a Cause
+## Hack for a Cause
 
 ### http://hackforacause.io/
 
-###when?
+###when
 APRIL 7-9th
 
-###where?
+### where?
 Downtown Athletic Club
 
-###who?
+### who?
 Open to public.
 
-###why
+### why
 Participants are given challenges based on the needs of local organizations.
