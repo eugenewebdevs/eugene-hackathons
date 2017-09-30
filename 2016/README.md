@@ -1,59 +1,59 @@
-#2016
+# 2016
 
-##QuackCon
+## QuackCon
 
-###http://www.quackcon.com/
+### http://www.quackcon.com/
 
-###when?
+### when?
 October 14-16 2016 Schedule: http://www.quackcon.com/blog/weekend-schedule-of-activities
 
-###where?
+### where?
 Eugene, Oregon (on the campus of The University of Oregon--Go Ducks!)
 
-###why?
+### why?
 The first collegiate Sports/Tech hackathon in the United States
 
 Participants will be encouraged to build a hack that focuses on
 1) athletic enhancement
 2) fan/audience engagement
 
-###Results: http://quackcon.devpost.com/submissions?page=1
+### Results: http://quackcon.devpost.com/submissions?page=1
 
 ==
 
-##Hack for a Cause
+## Hack for a Cause
 
-###https://www.facebook.com/events/862680570509528/
+### https://www.facebook.com/events/862680570509528/
 
-###when?
+### when?
 February 12 – February 14 2016
 
-###where?
+### where?
 Downtown Athletic Club
 999 Willamette St, Eugene, Oregon 97401
 
-###who?
+### who?
 Open to public.
 
-###why
+### why
 Participants are given challenges based on the needs of local organizations.
 
 
 ==
 
-##QUACKHACK
+## QUACKHACK
 
-###http://www.quackhack.io/
+### http://www.quackhack.io/
 
-###when?
+### when?
 JANUARY 13 - 15 2016
 
-###where?
+### where?
 University of Oregon
 
-###who?
+### who?
 Students can compete. Tech industry professionals can mentor.
 
-###why
+### why
 Participants create games because games.
 https://www.youtube.com/watch?v=oOdKFUmzljA
