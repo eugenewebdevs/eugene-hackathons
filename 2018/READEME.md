@@ -2,7 +2,7 @@
 
 ### http://hackforacause.io/
 
-###when
+### when
 APRIL 7-9th
 
 ### where?
